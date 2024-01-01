@@ -1,0 +1,19 @@
+*{
+    color:black;
+    background-color:blanchedalmond;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p{
+    font-size: 15;
+}
+
+.title{
+    font-weight: 900;
+    color:black
+}
+
+h2{
+    font-weight: 400;
+    color:brown
+}
